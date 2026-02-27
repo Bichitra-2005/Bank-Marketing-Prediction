@@ -1,0 +1,12 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit folders
+.streamlit/
+
+# Virtual environments (if you use them)
+venv/
+env/
+.env
